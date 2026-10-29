@@ -1,0 +1,12 @@
+{
+    "machine_name": "Windows Vista | Mint's laptop",
+    "vm_name": "winxp",
+    "host": "0.0.0.0",
+    "port": 5050,
+    "ws_port": 5051,
+    "ws_mouse_port": 5052,
+    "width": 1920,
+    "height": 1080,
+    "fps": 15,
+    "jpeg_quality": 50
+}

@@ -1,0 +1,9 @@
+flask
+flask-sock
+Pillow
+virtualbox
+av
+sounddevice
+numpy
+websocket-client
+websockets
